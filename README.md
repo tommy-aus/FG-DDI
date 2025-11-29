@@ -25,6 +25,7 @@ conda install -c rdkit rdkit
 
 # Dataset
 The datasete were sourced from the baseline model DSN-DDI.
+https://github.com/microsoft/Drug-Interaction-Research/blob/DSN-DDI-for-DDI-Prediction/DSN-DDI-dataset.zip
 ```
 
 
